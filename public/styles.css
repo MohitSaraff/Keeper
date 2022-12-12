@@ -61,10 +61,9 @@ footer p {
   margin-right: 10px;
   color: #f5ba13;
   border: none;
-  width: 36px;
-  height: 36px;
   cursor: pointer;
   outline: none;
+  background: none;
 }
 
 form {
@@ -94,8 +93,8 @@ form button {
   color: #fff;
   border: none;
   border-radius: 50%;
-  width: 36px;
-  height: 36px;
+  width: 40px;
+  height: 40px;
   box-shadow: 0 1px 3px rgba(0, 0, 0, 0.3);
   cursor: pointer;
   outline: none;
