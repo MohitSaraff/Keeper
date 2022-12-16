@@ -22,7 +22,7 @@ Deployed using vercel in these three domains.
 
 ## Tech Stack
 
-HTML, CSS, JavaScript, React
+HTML, CSS, JavaScript & React
 
 
 ## Run Locally
