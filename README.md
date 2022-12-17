@@ -1,7 +1,7 @@
 
 # 📒 Keeper
 
-User friendly Notes app. Note down anything important on the go.
+Easy to use Notes app. Note down anything important on the go.
 
 
 ## Demo
